@@ -9,6 +9,7 @@ To use this template, your computer needs:
 
 - [Python 3](https://python.org)
 - [Pip Package Manager](https://pypi.python.org/pypi)
+
 -[Virtual Environment](install using pip package)
 
 ### Running the app
